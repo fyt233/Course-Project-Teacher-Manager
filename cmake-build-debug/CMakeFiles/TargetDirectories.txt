@@ -1,0 +1,3 @@
+C:/Users/17136/Desktop/Course Project/cmake-build-debug/CMakeFiles/Course_Project.dir
+C:/Users/17136/Desktop/Course Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/17136/Desktop/Course Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
