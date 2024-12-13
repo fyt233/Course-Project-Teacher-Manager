@@ -1,6 +1,9 @@
 #include "teacher.h"
 int main() {
     login();
-    getchar();
+
+
+    system("pause");
+
     return 0;
 }
