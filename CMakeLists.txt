@@ -14,4 +14,5 @@ add_executable(Course_Project
         src/login.c
         src/teacher.h
         src/menu.c
+        src/addinfo.c
 )
