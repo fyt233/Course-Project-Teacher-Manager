@@ -28,7 +28,11 @@ extern humans;
 void login();
 void getPassword(char password[], int maxLength) ;
 void show_menu();
-void addinfo(TEA tea) ;
-void addinfomany(TEA tea[]) ;
+void addinfo(TEA *pTea) ;
+void addinfomany(TEA *pTea) ;
+void showone(TEA tea) ;
+void showall(TEA tea[]) ;
+void gethuman() ;
+void showthetitle() ;
 
 #endif //TEACHER_H

@@ -1,8 +1,12 @@
 #include "teacher.h"
-void show_menu() {
+void gethuman() {
     system("cls");
     printf("请输入教师人数：");
     scanf("%d",&humans);
+}
+void show_menu() {
+    system("cls");
+
     printf("----------------教师管理系统--------------\n");
     printf("\t\t1.添加教师信息\n");
     printf("\t\t2.显示教师信息\n");
