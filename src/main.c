@@ -10,9 +10,9 @@ int main() {
     scanf("%d", &a);
     switch (a) {
         case 1:
-            // addinfo(tea);单个添加，别用
+            // addinfo(tea[0]);
+            addinfomany(tea);
             break;
-
         case 0:
             exit(0);
     }

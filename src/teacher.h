@@ -14,7 +14,7 @@ typedef struct teacher {
     int id;//工号
     char gender[8];//性别
     int age;
-    int job;//职称
+    char job[40];//职称
     int salary;
     int experience;//工龄
     int phonenum;//联系方式
