@@ -1,10 +1,10 @@
 # ninja log v6
 249	1285	7568219792207804	CMakeFiles/Course_Project.dir/src/menu.c.obj	bbd5ccf3609d0083
+602	1310	7568219795735292	CMakeFiles/Course_Project.dir/src/avg.c.obj	c1dfd6dee737d4b8
 362	1294	7568219793336477	CMakeFiles/Course_Project.dir/src/addinfo.c.obj	6905abd98b3ff523
 4	1302	7568219789760206	CMakeFiles/Course_Project.dir/src/main.c.obj	c53048955906088d
-602	1310	7568219795735292	CMakeFiles/Course_Project.dir/src/avg.c.obj	c1dfd6dee737d4b8
 478	1318	7568219794489405	CMakeFiles/Course_Project.dir/src/show.c.obj	31069ddb5cc4b2f5
 139	1324	7568219791107626	CMakeFiles/Course_Project.dir/src/login.c.obj	c5aee09536b6b4de
+1392	1728	7568219803636079	Course_Project.exe	9976a93a43d172e8
 718	1333	7568219796895806	CMakeFiles/Course_Project.dir/src/change.c.obj	5dbf94847807519c
 828	1392	7568219797994500	CMakeFiles/Course_Project.dir/src/delete.c.obj	96eed67911a7e4e9
-1392	1728	7568219803636079	Course_Project.exe	9976a93a43d172e8

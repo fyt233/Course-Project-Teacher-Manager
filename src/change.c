@@ -1,6 +1,7 @@
 #include "teacher.h"
 
 void change(TEA tea[]) {
+    system("cls");
     printf("请输入要修改教师的工号/姓名\n");
     printf("1.输入工号\n");
     printf("2.输入姓名\n请输入(1/2):");

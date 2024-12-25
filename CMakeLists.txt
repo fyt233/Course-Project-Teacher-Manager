@@ -19,4 +19,5 @@ add_executable(Course_Project
         src/avg.c
         src/change.c
         src/delete.c
+        src/analyse.c
 )

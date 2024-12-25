@@ -20,7 +20,7 @@ typedef struct teacher {
     int phonenum;//联系方式
 }TEA;
 
-extern TEA tea[100];
+extern TEA tea[200];
 extern humans;
 
 
@@ -32,11 +32,12 @@ void addinfo(TEA *pTea) ;
 void addinfomany(TEA *pTea) ;
 void showone(TEA tea) ;
 void showall(TEA tea[]) ;
-void gethuman() ;
+// void gethuman() ;
 void showthetitle() ;
 void showavg(TEA tea[]);
 void getavg(TEA tea[]);
 void change(TEA tea[]) ;
 void delete(TEA tea[]);
+void analyse(TEA tea[]) ;
 
 #endif //TEACHER_H

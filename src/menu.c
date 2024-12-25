@@ -1,9 +1,9 @@
 #include "teacher.h"
-void gethuman() {
-    system("cls");
-    printf("请输入教师人数：");
-    scanf("%d",&humans);
-}
+// void gethuman() {
+//     system("cls");
+//     printf("请输入教师人数：");
+//     scanf("%d",&humans);
+// }
 void show_menu() {
     system("cls");
 
@@ -13,6 +13,7 @@ void show_menu() {
     printf("\t\t3.修改教师信息\n");
     printf("\t\t4.删除教师信息\n");
     printf("\t\t5.计算平均数据\n");
+    printf("\t\t6.数据分析\n");
     printf("\t\t0.退出程序\n");
     printf("------------------------------------------\n");
     printf("请输入数字(0-5):");

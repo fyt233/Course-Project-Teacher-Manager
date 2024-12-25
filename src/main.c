@@ -1,7 +1,7 @@
 #include "teacher.h"
 
-TEA tea[100];
-int humans;
+TEA tea[200];
+int humans=0;
 /*
  *几个准则：
  *1.所有新建文件记得改为GB2312
@@ -11,7 +11,7 @@ int humans;
  */
 int main() {
     // login();
-    gethuman();
+    // gethuman();
     int select,flag=1;
     while (flag) {
         show_menu();
@@ -34,6 +34,10 @@ int main() {
             case 5:
                 getavg(tea);
                 printf("平均数据已计算完毕！\n");
+            break;
+            case 6:
+                analyse(tea);
+                printf("数据分析已完成！\n");
             break;
             case 0:
                 exit(0);
