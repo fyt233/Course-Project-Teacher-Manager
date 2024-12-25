@@ -13,10 +13,10 @@ typedef struct teacher {
     char name[40];
     int id;//工号
     char gender[8];//性别
-    int age;
+    float age;
     char job[40];//职称
-    int salary;
-    int experience;//工龄
+    float salary;
+    float experience;//工龄
     int phonenum;//联系方式
 }TEA;
 
@@ -34,5 +34,8 @@ void showone(TEA tea) ;
 void showall(TEA tea[]) ;
 void gethuman() ;
 void showthetitle() ;
+void showavg(TEA tea[]);
+void getavg(TEA tea[]);
+void change(TEA tea[]) ;
 
 #endif //TEACHER_H

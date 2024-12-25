@@ -24,6 +24,16 @@ int main() {
             case 2:
                 showall(tea);
             break;
+            case 3:
+                change(tea);
+            break;
+            case 4:
+                // exit(0);
+            break;
+            case 5:
+                getavg(tea);
+                printf("平均数据已计算完毕！\n");
+            break;
             case 0:
                 exit(0);
         }

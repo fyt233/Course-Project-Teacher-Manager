@@ -16,4 +16,6 @@ add_executable(Course_Project
         src/menu.c
         src/addinfo.c
         src/show.c
+        src/avg.c
+        src/change.c
 )

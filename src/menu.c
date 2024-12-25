@@ -12,5 +12,6 @@ void show_menu() {
     printf("\t\t2.显示教师信息\n");
     printf("\t\t3.修改教师信息\n");
     printf("\t\t4.删除教师信息\n");
+    printf("\t\t5.计算平均数据\n");
     printf("\t\t0.退出程序\n");
 }
