@@ -37,5 +37,6 @@ void showthetitle() ;
 void showavg(TEA tea[]);
 void getavg(TEA tea[]);
 void change(TEA tea[]) ;
+void delete(TEA tea[]);
 
 #endif //TEACHER_H

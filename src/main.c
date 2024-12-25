@@ -28,6 +28,7 @@ int main() {
                 change(tea);
             break;
             case 4:
+                delete(tea);
                 // exit(0);
             break;
             case 5:

@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.30"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "Release",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Course_Project::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Course_Project-Debug-ff47cf148f051b61e879.json",
+					"jsonFile" : "target-Course_Project-Release-07775625082f42fa8f98.json",
 					"name" : "Course_Project",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/17136/Desktop/Course Project/cmake-build-debug",
+		"build" : "C:/Users/17136/Desktop/Course Project/cmake-build-release",
 		"source" : "C:/Users/17136/Desktop/Course Project"
 	},
 	"version" : 
