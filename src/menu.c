@@ -14,7 +14,14 @@ void show_menu() {
     printf("\t\t4.删除教师信息\n");
     printf("\t\t5.计算平均数据\n");
     printf("\t\t6.数据分析\n");
+    printf("\t\t7.按照工资排序\n");
+    printf("\t\t8.按照工龄排序\n");
+    printf("\t\t9.按照工号重新排序\n");
+    printf("\t\t10.按姓名搜索\n");
+    printf("\t\t11.按工号搜索\n");
+    printf("\t\t12.按联系方式搜索\n");
+    printf("\t\t13.按工龄搜索\n");
     printf("\t\t0.退出程序\n");
     printf("------------------------------------------\n");
-    printf("请输入数字(0-5):");
+    printf("请输入数字(0-10):");
 }

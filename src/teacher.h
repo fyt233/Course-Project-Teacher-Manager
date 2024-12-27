@@ -39,5 +39,17 @@ void getavg(TEA tea[]);
 void change(TEA tea[]) ;
 void delete(TEA tea[]);
 void analyse(TEA tea[]) ;
+void sortbysalarydec(TEA tea[]) ;
+void swap(TEA *a, TEA *b) ;
+void sortbysalaryasc(TEA tea[]) ;//ÉýÐòÅÅ¹¤×Ê
+
+void sortbyexpasc(TEA tea[]) ;
+void sortbyexpdec(TEA tea[]) ;
+void sortbyno(TEA tea[]) ;
+
+void searchbyname(TEA tea[]) ;
+void searchbyid(TEA tea[]) ;
+void searchbyphone(TEA tea[]) ;
+void searchbyexp(TEA tea[]) ;
 
 #endif //TEACHER_H

@@ -66,7 +66,9 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -126,7 +128,9 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -199,6 +203,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/analyse.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/sort.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/search.c",
 			"sourceGroupIndex" : 2
 		}
 	],

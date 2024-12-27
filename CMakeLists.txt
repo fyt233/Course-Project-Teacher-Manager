@@ -20,4 +20,6 @@ add_executable(Course_Project
         src/change.c
         src/delete.c
         src/analyse.c
+        src/sort.c
+        src/search.c
 )
