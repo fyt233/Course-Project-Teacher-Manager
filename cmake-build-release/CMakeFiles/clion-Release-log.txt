@@ -1,4 +1,4 @@
 C:\Users\17136\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=C:/Users/17136/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\17136\Desktop\Course Project" -B "C:\Users\17136\Desktop\Course Project\cmake-build-release"
--- Configuring done (0.7s)
--- Generating done (0.2s)
+-- Configuring done (1.0s)
+-- Generating done (0.4s)
 -- Build files have been written to: C:/Users/17136/Desktop/Course Project/cmake-build-release

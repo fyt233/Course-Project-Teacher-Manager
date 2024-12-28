@@ -126,6 +126,20 @@ build CMakeFiles/Course_Project.dir/src/search.c.obj: C_COMPILER__Course_Project
   OBJECT_DIR = CMakeFiles\Course_Project.dir
   OBJECT_FILE_DIR = CMakeFiles\Course_Project.dir\src
 
+build CMakeFiles/Course_Project.dir/src/load.c.obj: C_COMPILER__Course_Project_unscanned_Release C$:/Users/17136/Desktop/Course$ Project/src/load.c || cmake_object_order_depends_target_Course_Project
+  DEP_FILE = CMakeFiles\Course_Project.dir\src\load.c.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/17136/Desktop/Course Project/include"
+  OBJECT_DIR = CMakeFiles\Course_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Course_Project.dir\src
+
+build CMakeFiles/Course_Project.dir/src/save.c.obj: C_COMPILER__Course_Project_unscanned_Release C$:/Users/17136/Desktop/Course$ Project/src/save.c || cmake_object_order_depends_target_Course_Project
+  DEP_FILE = CMakeFiles\Course_Project.dir\src\save.c.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/17136/Desktop/Course Project/include"
+  OBJECT_DIR = CMakeFiles\Course_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Course_Project.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Course_Project
@@ -134,7 +148,7 @@ build CMakeFiles/Course_Project.dir/src/search.c.obj: C_COMPILER__Course_Project
 #############################################
 # Link the executable Course_Project.exe
 
-build Course_Project.exe: C_EXECUTABLE_LINKER__Course_Project_Release CMakeFiles/Course_Project.dir/src/main.c.obj CMakeFiles/Course_Project.dir/src/login.c.obj CMakeFiles/Course_Project.dir/src/menu.c.obj CMakeFiles/Course_Project.dir/src/addinfo.c.obj CMakeFiles/Course_Project.dir/src/show.c.obj CMakeFiles/Course_Project.dir/src/avg.c.obj CMakeFiles/Course_Project.dir/src/change.c.obj CMakeFiles/Course_Project.dir/src/delete.c.obj CMakeFiles/Course_Project.dir/src/analyse.c.obj CMakeFiles/Course_Project.dir/src/sort.c.obj CMakeFiles/Course_Project.dir/src/search.c.obj
+build Course_Project.exe: C_EXECUTABLE_LINKER__Course_Project_Release CMakeFiles/Course_Project.dir/src/main.c.obj CMakeFiles/Course_Project.dir/src/login.c.obj CMakeFiles/Course_Project.dir/src/menu.c.obj CMakeFiles/Course_Project.dir/src/addinfo.c.obj CMakeFiles/Course_Project.dir/src/show.c.obj CMakeFiles/Course_Project.dir/src/avg.c.obj CMakeFiles/Course_Project.dir/src/change.c.obj CMakeFiles/Course_Project.dir/src/delete.c.obj CMakeFiles/Course_Project.dir/src/analyse.c.obj CMakeFiles/Course_Project.dir/src/sort.c.obj CMakeFiles/Course_Project.dir/src/search.c.obj CMakeFiles/Course_Project.dir/src/load.c.obj CMakeFiles/Course_Project.dir/src/save.c.obj
   FLAGS = -O3 -DNDEBUG
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Course_Project.dir

@@ -6,9 +6,11 @@
     <file url="file://$PROJECT_DIR$/src/avg.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/change.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/delete.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/load.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/login.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/menu.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/save.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/search.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/show.c" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/sort.c" charset="GB2312" />

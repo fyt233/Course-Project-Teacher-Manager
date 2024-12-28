@@ -89,6 +89,18 @@ int main() {
             case 13:
                 searchbyexp(tea);
             break;
+            case 14:
+                humans+=loadfromtxt(tea);
+            break;
+            case 15:
+                humans+=loadfromtxt(tea);
+            break;
+            case 16:
+                savetxt(tea);
+            break;
+            case 17:
+                savebin(tea);
+            break;
             case 0:
                 exit(0);
         }

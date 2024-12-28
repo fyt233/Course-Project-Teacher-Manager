@@ -22,4 +22,6 @@ add_executable(Course_Project
         src/analyse.c
         src/sort.c
         src/search.c
+        src/load.c
+        src/save.c
 )
