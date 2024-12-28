@@ -10,7 +10,7 @@ int humans = 0;
  *4.
  */
 int main() {
-    // login();
+    login();
     // gethuman();
     int select, flag = 1;
     while (flag) {
